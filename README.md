@@ -1,3 +1,5 @@
+HOLA!! (●'◡'●)
+
 Desarrollador de Software con especialización en .NET, trabajando en frontend y backend utilizando MVC y arquitectura en N-capas. Habilidades de desarrollo web con Next.js, JavaScript, y c#. Busco aplicar mis conocimientos en diferentes proyectos y colaborar con equipos de desarrollo.
 
 
